@@ -1,6 +1,7 @@
 
 /*allon - full light
  alloff -full off
+ aagdhyasgd
  h-head
  la-left arm
  ra -right arm
